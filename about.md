@@ -25,11 +25,12 @@ titles:
   # @end locale config
 key: page-about
 ---
+
 ## Yeongmin Hwang
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p>I am currently a senior undergraduate student at the <strong>School of Computing</strong>, <strong>KAIST</strong>.</p>
-  <img src="https://raw.githubusercontent.com/hymin13/hymin13.github.io/main/_images/portrait.jpg" alt="portrait" style="width: 150px; height: auto;">
+  <img src="https://raw.githubusercontent.com/hymin13/hymin13.github.io/main/_images/portrait.jpg" alt="portrait" style="width: 150px; height: auto; border-radius: 50%;">
 </div>
 
 ## Education
