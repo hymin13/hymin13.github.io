@@ -1,7 +1,8 @@
 ---
 layout: article
-title: 
+show_title: false
 key: page-about
+toc: true
 ---
 
 ## About Me
@@ -12,7 +13,7 @@ key: page-about
 </div>
 
 ## Education
-- **Mar.2021~**: B.S. in School of Computing, KAIST
+- **Mar.2021 - Present**: B.S. in School of Computing, KAIST
 
 ## Publications
 
@@ -25,4 +26,4 @@ key: page-about
 
 Email: ymhwang@casys.kaist.ac.kr
 
-Location: Room ???, E3-1, KAIST, Daejeon, South Korea
+Location: Room ???, E3-1, KAIST, Daejeon, South Korea.
