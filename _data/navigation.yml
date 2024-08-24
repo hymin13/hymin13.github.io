@@ -44,7 +44,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       tr      : &TR       Özgeçmiş
-    url: https://github.com/hymin13/hymin13.github.io/
+    url: https://raw.githubusercontent.com/hymin13/ymhwang.cv/main/CV_ymhwang.pdf
   - titles:
       en      : &EN       Archive
       en-GB   : *EN

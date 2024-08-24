@@ -1,10 +1,9 @@
 ---
 layout: article
-title: About
 key: page-about
 ---
 
-## Yeongmin Hwang
+## About Me
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p>I am currently a senior undergraduate student at the <strong>School of Computing</strong>, <strong>KAIST</strong>.</p>
