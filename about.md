@@ -20,7 +20,7 @@ toc: true
 
 - **Understanding the Performance Behaviors of End-to-End Protein Design Pipelines on GPUs**<br>
 Jinwoo Hwang, <u>Yeongmin Hwang</u>, Tadiwos Meaza, Hyeonbin Bae, Jongse Park<br>
- <span style="color:blue">IEEE Computer Architecture Letters (CAL)</span>, <i>2026</i> [[Paper](To Appear)(https://hymin13.github.io/about.html)]
+ <span style="color:blue">IEEE Computer Architecture Letters (CAL)</span>, <i>2026</i> [[Paper(To Appear)](https://hymin13.github.io/about.html)]
 
 - **PAPERNAME: PAPERNAME**<br>
 <u>my-name</u>, author1, author2, author3<br>
