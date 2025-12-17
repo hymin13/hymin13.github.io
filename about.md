@@ -18,13 +18,16 @@ toc: true
 
 ## Publications
 
+- **Understanding the Performance Behaviors of End-to-End Protein Design Pipelines on GPUs**<br>
+Jinwoo Hwang, <u>Yeongmin Hwang</u>, Tadiwos Meaza, Hyeonbin Bae, Jongse Park<br>
+ <span style="color:blue">IEEE Computer Architecture Letters (CAL)</span>, <i>2026</i> [[Paper](To Appear)(https://hymin13.github.io/about.html)]
+
 - **PAPERNAME: PAPERNAME**<br>
 <u>my-name</u>, author1, author2, author3<br>
  <span style="color:blue">conference_name</span>, <i>2024</i> [[Paper](https://hymin13.github.io/about.html)]
-
 
 ## Contact
 
 Email: ymhwang@casys.kaist.ac.kr
 
-Location: Room ???, E3-1, KAIST, Daejeon, South Korea.
+Location: Room 409, E3-5, KAIST, Daejeon, South Korea.
