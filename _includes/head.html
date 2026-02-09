@@ -14,6 +14,9 @@
 
 {%- include head/favicon.html -%}
 
+{%- include snippets/prepend-baseurl.html path='/assets/css/variables.css' -%}
+<link rel="stylesheet" href="{{ __return }}">
+
 {%- include snippets/prepend-baseurl.html path='/assets/css/main.css' -%}
 <link rel="stylesheet" href="{{ __return }}">
 

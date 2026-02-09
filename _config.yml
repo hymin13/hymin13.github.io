@@ -48,7 +48,7 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : \%EC%98%81%EB%AF%BC-%ED%99%A9-98424b262 # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : yeongmin-hwang-98424b262 # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : hymin13 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
@@ -159,7 +159,7 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
+  provider: false # "default" (default), false, "google", "custom"
 
   ## Google Custom Search Engine
   google:

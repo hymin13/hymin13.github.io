@@ -1,0 +1,106 @@
+:root {
+    /* Default (Light) Theme - Edgy & Sharp */
+    --main-color-1: #2962ff;
+    /* Sharp Blue */
+    --text-color-1: #fff;
+
+    --main-color-2: #d500f9;
+    /* Vivid Purple */
+    --text-color-2: #fff;
+
+    --main-color-3: #f5f5f5;
+    /* Very Light Gray */
+    --text-color-3: #111;
+
+    --main-color-theme-light: rgba(0, 0, 0, .9);
+    --main-color-theme-dark: rgba(255, 255, 255, .9);
+
+    --background-color: #ffffff;
+
+    --text-color-d: #000;
+    --text-color: #111;
+    --text-color-l: #666;
+
+    --text-background-color: rgba(0, 0, 0, .03);
+
+    --header-text-color: var(--text-color-3);
+    --header-background: rgba(255, 255, 255, 0.95);
+
+    --footer-text-color: var(--text-color-3);
+    --footer-background: var(--main-color-3);
+
+    --border-color: #000000;
+    /* High Contrast Border */
+    --border-color-l: #e0e0e0;
+    --decorate-color: rgba(0, 0, 0, .1);
+    --mask-color: rgba(0, 0, 0, .9);
+    --select-color: rgba(41, 98, 255, .5);
+
+    /* Function Colors */
+    --green: #00c853;
+    --blue: #2962ff;
+    --yellow: #ffab00;
+    --red: #d50000;
+    --text-color-function: #fff;
+
+    /* Logo Colors */
+    --mail-color: #0072c5;
+    --facebook-color: #4267b2;
+    --twitter-color: #1da1f2;
+    --weibo-color: #e6162d;
+    --google-plus-color: #ea4335;
+    --telegram-color: #32afed;
+    --medium-color: #000;
+    --zhihu-color: #0084ff;
+    --douban-color: #42bd56;
+    --linkedin-color: #1074af;
+    --github-color: #000;
+    --npm-color: #fff;
+}
+
+[data-theme="dark"] {
+    /* Dark Theme Overrides - High Contrast & Neon */
+    --main-color-1: #00d4ff;
+    /* Neon Cyan */
+    --text-color-1: #000;
+
+    --main-color-2: #ff00ea;
+    /* Neon Magenta */
+    --text-color-2: #fff;
+
+    --main-color-3: #1a1a1a;
+    --text-color-3: #fff;
+
+    --main-color-theme-light: rgba(0, 0, 0, .8);
+    --main-color-theme-dark: rgba(255, 255, 255, .8);
+
+    --background-color: #050505;
+    /* Deep Black */
+
+    --text-color-d: #fff;
+    --text-color: #eee;
+    --text-color-l: #aaa;
+
+    --text-background-color: rgba(255, 255, 255, .05);
+
+    --header-text-color: var(--text-color-3);
+    --header-background: rgba(5, 5, 5, 0.95);
+
+    --footer-text-color: var(--text-color-3);
+    --footer-background: var(--main-color-3);
+
+    --border-color: #333;
+    --border-color-l: #222;
+    --decorate-color: rgba(255, 255, 255, .1);
+    --mask-color: rgba(0, 0, 0, .9);
+    --select-color: rgba(0, 212, 255, .5);
+
+    /* Function Colors */
+    --green: #00e676;
+    --blue: #2979ff;
+    --yellow: #ffc400;
+    --red: #ff1744;
+    --text-color-function: #000;
+
+    --github-color: #fff;
+}
